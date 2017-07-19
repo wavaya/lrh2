@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="bookInfo_split">5dp</dimen>
+    <dimen name="new_split">5dp</dimen>
+    <dimen name="font_24px">14sp</dimen>
+    <color name="kv_value_color">#999999</color>
+    <dimen name="font_title_4">14.0sp</dimen>
+    <dimen name="font_30px">18sp</dimen>
+</resources>
